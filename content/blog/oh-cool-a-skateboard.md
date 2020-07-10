@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "This is a skateboard"
-draft = true
 image = "/images/portfolio/item-5.png"
 title = "Oh cool! A skateboard."
 
